@@ -1036,19 +1036,19 @@ nav{
     flex-wrap: wrap;
     gap: 20px;
 }
-[type=text]{
+input [type=text]{
     height: 40px;
     width: 100%;
 }
-[type=number]{
+input [type=number]{
     height: 40px;
     width: 100%;
 }
-[type=email]{
+input [type=email]{
     height: 40px;
     width: 100%;
 }
-select{
+select option{
     height: 40px;
     width: 100%;
 }
